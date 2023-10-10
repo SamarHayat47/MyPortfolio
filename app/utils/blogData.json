@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Blogging",
+    "author": "John Doe",
+    "date": "October 20, 2023",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius dolor vel lectus volutpat, vel euismod turpis aliquet."
+  },
+  {
+    "id": 2,
+    "title": "React Tips and Tricks",
+    "author": "Jane Smith",
+    "date": "October 15, 2023",
+    "content": "Aenean interdum lorem a dui condimentum, at ullamcorper libero bibendum. Nullam eget tortor sit amet odio feugiat vehicula eget id urna."
+  },
+  {
+    "id": 3,
+    "title": "Getting Started with Next.js",
+    "author": "Alice Johnson",
+    "date": "October 10, 2023",
+    "content": "Vivamus varius dolor vel lectus volutpat, vel euismod turpis aliquet. Sed nec ex nec urna tincidunt hendrerit."
+  },
+  {
+    "id": 4,
+    "title": "The Art of Blogging",
+    "author": "John Doe",
+    "date": "October 20, 2023",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius dolor vel lectus volutpat, vel euismod turpis aliquet."
+  },
+  {
+    "id": 5,
+    "title": "React Tips and Tricks",
+    "author": "Jane Smith",
+    "date": "October 15, 2023",
+    "content": "Aenean interdum lorem a dui condimentum, at ullamcorper libero bibendum. Nullam eget tortor sit amet odio feugiat vehicula eget id urna."
+  },
+  {
+    "id": 6,
+    "title": "Getting Started with Next.js",
+    "author": "Alice Johnson",
+    "date": "October 10, 2023",
+    "content": "Vivamus varius dolor vel lectus volutpat, vel euismod turpis aliquet. Sed nec ex nec urna tincidunt hendrerit."
+  },
+  {
+    "id": 7,
+    "title": "The Art of Blogging",
+    "author": "John Doe",
+    "date": "October 20, 2023",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius dolor vel lectus volutpat, vel euismod turpis aliquet."
+  },
+  {
+    "id": 8,
+    "title": "React Tips and Tricks",
+    "author": "Jane Smith",
+    "date": "October 15, 2023",
+    "content": "Aenean interdum lorem a dui condimentum, at ullamcorper libero bibendum. Nullam eget tortor sit amet odio feugiat vehicula eget id urna."
+  },
+  {
+    "id": 9,
+    "title": "Getting Started with Next.js",
+    "author": "Alice Johnson",
+    "date": "October 10, 2023",
+    "content": "Vivamus varius dolor vel lectus volutpat, vel euismod turpis aliquet. Sed nec ex nec urna tincidunt hendrerit."
+  }
+]
